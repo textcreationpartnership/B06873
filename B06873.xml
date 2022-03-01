@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O raree show, o pritee show. Will you see my fine show.</title>
+            <author>Ward, Edward, 1667-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06873</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[155]</idno>
+            <idno type="EEBO-CITATION">99885011</idno>
+            <idno type="PROQUEST">ocm99885011</idno>
+            <idno type="VID">182824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182824)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[156])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O raree show, o pritee show. Will you see my fine show.</title>
+                  <author>Ward, Edward, 1667-1731.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by date of Wing W752.</note>
+                  <note>Verse: "HERE be De ver pritte Show, just come from Parry ..."</note>
+                  <note>Cf. Wing W752 which has "pretty-show" and an imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182824:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>O Raree Show, O Pritee Show. Will you ſee my Fine SHOW.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>HERE be De ver pritte Show, juſt come from <hi>Parry;</hi>
+               </l>
+               <l>Me ſhow <hi>Shentlemen,</hi> to make you merry:</l>
+               <l>Here be De great Spring, Dat dance De Machine,</l>
+               <l>On which De <hi>Lovis</hi> Dors be de moſt plainly ſeen.</l>
+               <l>
+                  <hi>O Raree Show, O pritte Show.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Here, firſt me preſent you vid, De diſmal Diſaſter,</l>
+               <l>
+                  <hi>De Servant be hanga, for De ſerving De Maſter:</hi>
+               </l>
+               <l>Here be De great <hi>Malbro</hi> who all De Vearld know,</l>
+               <l>Vas baniſh'd for ſawcily <hi>beating De Foe:</hi>
+               </l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Here be De great <hi>O—d</hi> made General in Seaſon,</l>
+               <l>Prohibit De Fighting, to bring <hi>France</hi> to Reaſon:</l>
+               <l>Here <hi>Britain,</hi> with Sacred Regard to Affiance,</l>
+               <l>Break Treaty, to ſtrengthen the Band of Alliance.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Here be <hi>De Viſe Polititian</hi> diſpatched</l>
+               <l>To <hi>Parry;</hi> to treat a Peace Dey Der hatched:</l>
+               <l>Here be <hi>De Congreſs at Utricht,</hi> where noting is Brooded,</l>
+               <l>De Plenepoes meet, to agree what's concluded:</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Here be De noter prittee Tranſaction,</l>
+               <l>To give <hi>Lovis</hi> all, gives Allies Satisfaction:</l>
+               <l>Here be <hi>De Politique Harlequin,</hi> mind him,</l>
+               <l>You ne're ſhall Twice in the ſame Poſture find him.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Here be <hi>De Addreſſes</hi> to De Trone of <hi>Great Britain,</hi>
+               </l>
+               <l>Say Hereditary Right will make <hi>Hanover</hi> ſit on:</l>
+               <l>Here be De good Proteſtant, who love no Prieſt Jerkin,</l>
+               <l>To ſave his Reliſhon looks to <hi>Lovis</hi> and <hi>Perkin:</hi>
+               </l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Here be De <hi>viſe Polititian</hi> Dat ſaid it,</l>
+               <l>De ſinking of Debts, be De reſtoring of Credit:</l>
+               <l>Here to preſerve De Conſtitution of <hi>Britain,</hi>
+               </l>
+               <l>A whole <hi>Dozen of Lords</hi> are made at a Sitting.</l>
+               <l>
+                  <hi>O Raree Show, O Prettee Show.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Here be De Cabal of Whigs Dat are brought on</l>
+               <l>A hatching of Plots Dat no Soul ere tought on:</l>
+               <l>Here be de 500<abbr>
+                     <hi>l.</hi>
+                  </abbr> for De taking <hi>Macartney,</hi>
+               </l>
+               <l>Dis muſt be a Plot de Reward be ſo hearty.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Here be De 50<abbr>
+                     <hi>l.</hi>
+                  </abbr> for De <hi>Paul's Screws,</hi>
+               </l>
+               <l>Which had Dey all gone had nere hurt De Pews:</l>
+               <l>Here be De <hi>Bandbox</hi> and <hi>Inkhorns,</hi> ſince the good Man ſurviv'd it,</l>
+               <l>Tis not worth one Braſs Farthing to know who contriv'd it.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Here be De Great <hi>D'Aumont's</hi> whole Cellar of <hi>Clarret,</hi>
+               </l>
+               <l>Burnt by a Plot laid as high as the Garret:</l>
+               <l>Here be De 500<abbr>
+                     <hi>l.</hi>
+                  </abbr> for De Letter Dat told it;</l>
+               <l>De Straw Garrateer can moſt likely unfold it.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Here be De <hi>Skelton,</hi> do no more Den his Licence intended,</l>
+               <l>By Advertiſement, and Swearing is Nobly Defended:</l>
+               <l>Here be De go Volks, Dat of no Plot did tink,</l>
+               <l>Untill <hi>Skelton</hi> and <hi>Louis,</hi> firſt ſtir'd up De Stink.</l>
+               <l>
+                  <hi>O Raree Show,</hi> &amp;c.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Here be De Great <hi>Berwick</hi> juſt coming from <hi>Parry,</hi>
+               </l>
+               <l>With a Damnable Plot to make De' Papiſts merry:</l>
+               <l>Now give <hi>De l'Argent;</hi> and when we have got 'em</l>
+               <l>Me ſhew <hi>Chevelier de St. George at the Bottom.</hi>
+               </l>
+               <l>
+                  <hi>O Raree Show, O Prittes Show.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>O Raree Show, O prittee Show, Who ſee my Fine Show?</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
